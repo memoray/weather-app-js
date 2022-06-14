@@ -1,0 +1,14 @@
+{
+  "devDependencies": {
+    "os-browserify": "^0.3.0",
+    "parcel": "^2.5.0",
+    "path-browserify": "^1.0.1",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "@parcel/transformer-css": "^2.5.0",
+    "dotenv": "^16.0.1",
+    "jshint": "^2.13.4"
+  },
+  "modules": true
+}
